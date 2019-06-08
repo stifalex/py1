@@ -3,3 +3,5 @@ m=0
 while m<x:
     print("hello")
     m+=1
+else:
+    print()
